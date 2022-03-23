@@ -8,6 +8,7 @@ I can use C/C++ in leetcode, but prefer python...
 
 I have read "Fluent Python", "Python Cookbook 3", "Deeplearning with Python", etc...
 
+![](https://raw.githubusercontent.com/ShawnDong98/gitimage/main/小书匠/1648046692956.png)
 
 
 - 🔭 I’m pursuing my phd degree at Xidian University.
