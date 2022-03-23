@@ -8,7 +8,7 @@ I can use C/C++ in leetcode, but prefer python...
 
 I have read "Fluent Python", "Python Cookbook 3", "Deeplearning with Python", etc...
 
-![](https://img.shields.io/badge/python-v3.7-blue)
+![](https://img.shields.io/badge/python-v3.7-blue)![](https://img.shields.io/badge/pytorch-v1.7.1-orange)
 
 
 - 🔭 I’m pursuing my phd degree at Xidian University.
