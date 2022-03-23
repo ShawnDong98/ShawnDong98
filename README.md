@@ -16,6 +16,8 @@ I have read "Fluent Python", "Python Cookbook 3", "Deeplearning with Python", et
 
 ![](https://img.shields.io/badge/paper-latex-blue)![](https://img.shields.io/badge/code-neovim-green)
 
+![](https://img.shields.io/badge/code-git-lightgrey)![](https://img.shields.io/badge/code-docker-blue)
+
 
 - 🔭 I’m pursuing my phd degree at Xidian University.
 - 🌱 I’m currently learning about Vision & Language & Generation.
