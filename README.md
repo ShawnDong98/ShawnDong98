@@ -8,7 +8,7 @@ I can use C/C++ in leetcode, but prefer python...
 
 I have read "Fluent Python", "Python Cookbook 3", "Deeplearning with Python", etc...
 
-![](https://www.fast.ai/)
+![](https://img.shields.io/badge/python-v3.7-blue)![](https://img.shields.io/badge/Pytorch-v1.7.1-red)![](https://img.shields.io/badge/keras-v2.6-red)![](https://img.shields.io/badge/tensorflow-v2.6.0-orange)![](https://img.shields.io/badge/fastai-v2-lightgrey)![](https://img.shields.io/badge/paper-latex-blue)![](https://img.shields.io/badge/code-neovim-green)
 
 
 - 🔭 I’m pursuing my phd degree at Xidian University.
